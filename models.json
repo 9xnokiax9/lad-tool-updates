@@ -6,6 +6,13 @@
       "desc": "Thinkpad P1 Gen 3",
       "time": 4000,
       "delay": 1000
+    },
+    {
+      "name": "19770-1",
+      "kind": "hold",
+      "desc": "Lenovo x1 Extreme v3",
+      "time": 4000,
+      "delay": 1000
     }
   ]
 }
