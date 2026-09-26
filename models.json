@@ -1,3 +1,11 @@
 {
-  "models": []
+  "models": [
+    {
+      "name": "19803-1",
+      "kind": "hold",
+      "desc": "Thinkpad P1 Gen 3",
+      "time": 4000,
+      "delay": 1000
+    }
+  ]
 }
