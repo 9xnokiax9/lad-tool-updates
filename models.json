@@ -13,6 +13,13 @@
       "desc": "Lenovo x1 Extreme v3",
       "time": 4000,
       "delay": 1000
+    },
+    {
+      "name": "NM-B861",
+      "kind": "hold",
+      "desc": "Thinkpad X1 Yoga 4th",
+      "time": 3000,
+      "delay": 500
     }
   ]
 }
