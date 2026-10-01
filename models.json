@@ -20,6 +20,13 @@
       "desc": "Thinkpad X1 Yoga 4th",
       "time": 3000,
       "delay": 500
+    },
+    {
+      "name": "NM-B521",
+      "kind": "hold",
+      "desc": "Thinkpad X280",
+      "time": 3000,
+      "delay": 500
     }
   ]
 }
